@@ -8,19 +8,30 @@ type a brief summary here.
 
 ### Built With
 
-list the technologies used here.
+![Python](https://img.shields.io/badge/python-3.6-blue)
+![Raspberry-Pi](https://img.shields.io/badge/raspberry--pi-4-green)
+!Camera
+!Bread Board
+!Button
+!Wires
+!Resistors
+!20 x 4 I2C LCD Screen
+!4 x 4 Number Pad
 
 ### Features
 
 add the features here.
 
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+1. Set up Raspberry-Pi
+  ![Install Raspbian-OS](https://www.raspberrypi.org/documentation/installation/installing-images/)
+  !Connect to keyboard and mouse, power source, and monitor
+2. Install necessary software
+3. Set up necessary hardware (#hardware-guide)
+4. Download files in IoT repository
 
 ### Prerequisites
-
+![Python](https://img.shields.io/badge/python-3.6-blue)
 This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
@@ -42,9 +53,12 @@ npm install
 ```JS
 const API_KEY = 'ENTER YOUR API';
 ```
+<!-- HARDWARE GUIDE -->
+### Hardware Guide
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
