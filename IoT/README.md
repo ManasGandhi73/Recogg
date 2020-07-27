@@ -28,20 +28,26 @@ type a brief summary here.
 
 ## Getting Started
 1. Set up Raspberry-Pi
-  ![Install Raspbian-OS](https://www.raspberrypi.org/documentation/installation/installing-images/)
-  !Connect to keyboard and mouse, power source, and monitor
+  * [See hardware guide](#hardware-guide)
 2. Install necessary software
-3. Set up necessary hardware (#hardware-guide)
+3. [Set up necessary hardware](#hardware-guide)
 4. Download files in IoT repository
 
 ### Prerequisites
-![Python](https://img.shields.io/badge/python-3.6-blue)
-This is an example of how to list things you need to use the software and how to install them.
-* numpy
-```sh
-npm install npm@latest -g
-```
-
+* [Python](https://img.shields.io/badge/python-3.6-blue)
+* Type these into linux terminal: 
+  * PIP installer for Python3
+  ```sh
+  sudo apt-get install python3-pip
+  ```
+  * numpy
+  ```sh
+  pip install numpy
+  ```
+  * opencv
+  ```sh
+  pip install python-opencv
+  ```
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -59,6 +65,15 @@ const API_KEY = 'ENTER YOUR API';
 ```
 <!-- HARDWARE GUIDE -->
 ### Hardware Guide
+* Raspberry-Pi setup
+  * [Install Raspbian-OS](https://www.raspberrypi.org/documentation/installation/installing-images/)
+  * Plug into keyboard and mouse, monitor (using HDMI), and power source
+* Keypad
+<br />
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/logo.png" alt="Logo" width="135" height="135">
+  </a>
 
 <!-- USAGE EXAMPLES -->
 ## Usage
