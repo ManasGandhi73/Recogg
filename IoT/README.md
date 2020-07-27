@@ -56,7 +56,7 @@ Recogg uses the Raspberry-Pi in conjunction with other hardware components to pe
    ```
 2. Clone the repo
 ```sh
-wget https://github.com/your_username_/Project-Name.git
+git clone https://github.com/your_username_/Recogg/tree/master/IoT.git
 ```
 
 <!-- HARDWARE GUIDE -->
