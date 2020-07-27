@@ -82,13 +82,13 @@ git clone https://github.com/your_username_/Recogg.git
 <img src="keypadImage.png" alt="Keypad Image" style="float: left; margin-right: 10px;" />
    * LCD Screen Pins
       * GND - GND
-      * VCC - 5V
+      * VCC - 5V 
       * SDA - SDA1
-      * SCL - SCL1
+      * SCL - SCL
    * Button Pins
       * RXD0
       * 3.3V
-<img src="keypadImage.png" alt="Keypad Image" style="float: left; margin-right: 10px;" />
+<img src="buttonImage.jpg" alt="Button Image" style="float: left; margin-right: 10px;" />
 
 <!-- USAGE EXAMPLES -->
 ## Usage
