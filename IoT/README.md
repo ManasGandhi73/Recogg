@@ -11,13 +11,14 @@ Recogg uses the Raspberry-Pi in conjunction with other hardware components to pe
 
 * [Python](https://img.shields.io/badge/python-3.6-blue)
 * [Raspberry-Pi](https://img.shields.io/badge/raspberry--pi-4-green)
-* Camera
-* Bread Board
-* Button
-* Wires
-* Resistors
-* 20 x 4 I2C LCD Screen
-* 4 x 4 Number Pad
+* [Camera](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=sr_1_3?dchild=1&keywords=raspberry+pi+camera&qid=1592857047&sr=8-3)
+* [Bread Board](https://www.amazon.com/EL-CP-003-Breadboard-Solderless-Distribution-Connecting/dp/B01EV6LJ7G/ref=sr_1_1_sspa?dchild=1&keywords=breadboard&qid=1595879460&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExSDVaOVZTQjhRTE0xJmVuY3J5cHRlZElkPUEwNzA0MjMxMjU2VDhZOU45VzVFUiZlbmNyeXB0ZWRBZElkPUEwNTI0ODkxMTVLQVI1Vk9QVEE5OCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+* [Button](https://www.amazon.com/6x6x6mm-Momentary-Push-Button-Switch/dp/B01GN79QF8/ref=sr_1_5?dchild=1&keywords=raspberry+pi+button&qid=1595879504&sr=8-5)
+* [Wires](https://www.amazon.com/REXQualis-120pcs-Breadboard-Arduino-Raspberry/dp/B072L1XMJR/ref=sr_1_1_sspa?dchild=1&keywords=wires+for+raspberry+pi&qid=1595879217&sr=8-1-spons&psc=1&smid=AGKZJH7853EGJ&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyT0lSUVIxWkQ0NzlYJmVuY3J5cHRlZElkPUEwMTE2MjU4MjI4SDNBUTVMMUo2TSZlbmNyeXB0ZWRBZElkPUExMDQ2NTg4MlZHREdTTUU1ODNIWiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+* [10k Ω Resistor](https://www.amazon.com/EDGELEC-Resistor-Tolerance-Multiple-Resistance/dp/B07QJB31M7/ref=sr_1_1_sspa?dchild=1&keywords=10k+ohm+resistor&qid=1595879144&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExRU9QVkQ5VzcxR1BDJmVuY3J5cHRlZElkPUEwMzQ5MDkwQTQwNlZFWTQzR0NMJmVuY3J5cHRlZEFkSWQ9QTA4MDc3MjEyQU1UQlZFV08xQUdMJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
+* [20 x 4 I2C LCD Screen](https://www.amazon.com/dp/B01GPUMP9C/ref=twister_B0784SYKBM?_encoding=UTF8&psc=1)
+* [4 x 4 Number Pad](https://www.amazon.com/YETAIDA-Arduino-Universial-Keyboard-Membrane/dp/B07Q7FW8B9/ref=sr_1_1_sspa?dchild=1&keywords=4x4+raspberry+pi+keypad&qid=1595878846&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzR0FYWFRWTklaNEY5JmVuY3J5cHRlZElkPUEwOTc4NDM2MTBPQzVPUldBREpUUiZlbmNyeXB0ZWRBZElkPUEwNTg1OTIxMkNQWjkzT0dBNkdHOCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+* [Battery Pack](https://www.amazon.com/Battery-Pack-Raspberry-4000mAh-Suction/dp/B07BSG7V3J)
 
 ### Features
 * Accurate Facial Detection
