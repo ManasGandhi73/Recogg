@@ -6,6 +6,7 @@
 
 type a brief summary here.
 
+<!-- BUILT WITH -->
 ### Built With
 
 * [Python](https://img.shields.io/badge/python-3.6-blue)
@@ -29,13 +30,20 @@ type a brief summary here.
 ## Getting Started
 1. Set up Raspberry-Pi
   * [See hardware guide](#hardware-guide)
-2. Install necessary software
+2. [Install necessary software](#installation)
 3. [Set up necessary hardware](#hardware-guide)
-4. Download files in IoT repository
+4. [Download files in IoT repository](#installation)
 
 ### Prerequisites
-* [Python](https://img.shields.io/badge/python-3.6-blue)
-* Type these into linux terminal: 
+* [Buy all necessary hardware](#built-with)
+* [Install necessary software](#installation)
+  
+<!-- INSTALLATION -->
+### Installation
+
+1. [Install Python](https://img.shields.io/badge/python-3.6-blue)
+2. Install Python libraries
+  * Type these into linux terminal: 
   * PIP installer for Python3
   ```sh
   sudo apt-get install python3-pip
@@ -48,32 +56,31 @@ type a brief summary here.
   ```sh
   pip install python-opencv
   ```
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+wget https://github.com/your_username_/Project-Name.git
 ```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
+
 <!-- HARDWARE GUIDE -->
 ### Hardware Guide
 * Raspberry-Pi setup
   * [Install Raspbian-OS](https://www.raspberrypi.org/documentation/installation/installing-images/)
   * Plug into keyboard and mouse, monitor (using HDMI), and power source
-* Keypad
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="135" height="135">
-  </a>
+* [Keypad](https://maker.pro/raspberry-pi/tutorial/how-to-use-a-keypad-with-a-raspberry-pi-4)
+* [LCD Screen](https://www.youtube.com/watch?v=F9IVtKa8C7Q)
+* [Button](https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/)
+* [Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
+* GPIO Pin setup
+ * Keypad pins
+   * Pin 1 - GPIO 5
+* Pin 2 - GPIO 6
+* Pin 3 - GPIO 13
+* Pin 4 - GPIO 19
+* Pin 5 - GPIO 12 
+* Pin 6- GPIO 16
+* Pin 7 - GPIO 20 
+* Pin 8 - GPIO 21 
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
