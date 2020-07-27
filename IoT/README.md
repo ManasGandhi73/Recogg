@@ -80,14 +80,14 @@ git clone https://github.com/your_username_/Recogg.git
       * Pin 7 - GPIO 20 
       * Pin 8 - GPIO 21 
  <img src="keypadImage.png" alt="Keypad Image" style="float: left; margin-right: 10px;" />
- * LCD Screen Pins
-   * GND - GND
-   * VCC - 5V
-   * SDA - SDA1
-   * SCL - SCL1
- * Button Pins
-   * RXD0
-   * 3.3V
+   * LCD Screen Pins
+      * GND - GND
+      * VCC - 5V
+      * SDA - SDA1
+      * SCL - SCL1
+   * Button Pins
+      * RXD0
+      * 3.3V
 
 
 <!-- USAGE EXAMPLES -->
