@@ -29,7 +29,7 @@ type a brief summary here.
 
 ## Getting Started
 1. Set up Raspberry-Pi
-  * [See hardware guide](#hardware-guide)
+    * [See hardware guide](#hardware-guide)
 2. [Install necessary software](#installation)
 3. [Set up necessary hardware](#hardware-guide)
 4. [Download files in IoT repository](#installation)
@@ -43,19 +43,19 @@ type a brief summary here.
 
 1. [Install Python](https://img.shields.io/badge/python-3.6-blue)
 2. Install Python libraries
-  * Type these into linux terminal: 
-  * PIP installer for Python3
-  ```sh
-  sudo apt-get install python3-pip
-  ```
-  * numpy
-  ```sh
-  pip install numpy
-  ```
-  * opencv
-  ```sh
-  pip install python-opencv
-  ```
+  Type these into linux terminal: 
+   * PIP installer for Python3
+   ```sh
+   sudo apt-get install python3-pip
+   ```
+   * numpy
+   ```sh
+   pip install numpy
+   ```
+   * opencv
+   ```sh
+   pip install python-opencv
+   ```
 2. Clone the repo
 ```sh
 wget https://github.com/your_username_/Project-Name.git
@@ -70,23 +70,30 @@ wget https://github.com/your_username_/Project-Name.git
 * [LCD Screen](https://www.youtube.com/watch?v=F9IVtKa8C7Q)
 * [Button](https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/)
 * [Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
-* GPIO Pin setup
- * Keypad pins
+* GPIO Pin Setup (Using BCM layout)
+ * Keypad Pins (starting from the left)
    * Pin 1 - GPIO 5
-* Pin 2 - GPIO 6
-* Pin 3 - GPIO 13
-* Pin 4 - GPIO 19
-* Pin 5 - GPIO 12 
-* Pin 6- GPIO 16
-* Pin 7 - GPIO 20 
-* Pin 8 - GPIO 21 
+   * Pin 2 - GPIO 6
+   * Pin 3 - GPIO 13
+   * Pin 4 - GPIO 19
+   * Pin 5 - GPIO 12 
+   * Pin 6 - GPIO 16
+   * Pin 7 - GPIO 20 
+   * Pin 8 - GPIO 21 
+ * LCD Screen Pins
+   * GND - GND
+   * VCC - 5V
+   * SDA - SDA1
+   * SCL - SCL1
+ * Button Pins
+   * RXD0
+   * 3.3V
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The IoT part of Recogg can be used for any kind of facial detection from an attendance system, to a door lock, to unlocking a computer. As this project is a prototype, we encourage improving it and using it for other purposes. **Make sure to list us as the original authors, especially if you use any of our code, documentation, or instructions.**
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
