@@ -70,17 +70,16 @@ git clone https://github.com/your_username_/Recogg.git
 * [Button](https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/)
 * [Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 * GPIO Pin Setup (Using BCM layout)
-<img src="keypadImage.png" alt="Keypad Image" style="float: left; margin-right: 10px;" />
- * Keypad Pins (starting from the left)
-   * Pin 1 - GPIO 5
-   * Pin 2 - GPIO 6
-   * Pin 3 - GPIO 13
-   * Pin 4 - GPIO 19
-   * Pin 5 - GPIO 12 
-   * Pin 6 - GPIO 16
-   * Pin 7 - GPIO 20 
-   * Pin 8 - GPIO 21 
- 
+   * Keypad Pins (starting from the left)
+      * Pin 1 - GPIO 5
+      * Pin 2 - GPIO 6
+      * Pin 3 - GPIO 13
+      * Pin 4 - GPIO 19
+      * Pin 5 - GPIO 12 
+      * Pin 6 - GPIO 16
+      * Pin 7 - GPIO 20 
+      * Pin 8 - GPIO 21 
+ <img src="keypadImage.png" alt="Keypad Image" style="float: left; margin-right: 10px;" />
  * LCD Screen Pins
    * GND - GND
    * VCC - 5V
