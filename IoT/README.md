@@ -1,4 +1,4 @@
-# Recogg - API
+# Recogg - IoT
 
 ###  ###
 
@@ -8,19 +8,23 @@ type a brief summary here.
 
 ### Built With
 
-![Python](https://img.shields.io/badge/python-3.6-blue)
-![Raspberry-Pi](https://img.shields.io/badge/raspberry--pi-4-green)
-!Camera
-!Bread Board
-!Button
-!Wires
-!Resistors
-!20 x 4 I2C LCD Screen
-!4 x 4 Number Pad
+* [Python](https://img.shields.io/badge/python-3.6-blue)
+* [Raspberry-Pi](https://img.shields.io/badge/raspberry--pi-4-green)
+* Camera
+* Bread Board
+* Button
+* Wires
+* Resistors
+* 20 x 4 I2C LCD Screen
+* 4 x 4 Number Pad
 
 ### Features
-
-add the features here.
+* Accurate Facial Detection
+* Capture Faces using Raspberry Pi Camera
+* Update LCD Screen with Information
+* Allow entry of a class uid using a keypad
+* Turn On/Off using Button
+* Mobile with a Portable Battery
 
 ## Getting Started
 1. Set up Raspberry-Pi
@@ -33,7 +37,7 @@ add the features here.
 ### Prerequisites
 ![Python](https://img.shields.io/badge/python-3.6-blue)
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* numpy
 ```sh
 npm install npm@latest -g
 ```
