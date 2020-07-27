@@ -54,9 +54,9 @@ Recogg uses the Raspberry-Pi in conjunction with other hardware components to pe
    ```sh
    pip install python-opencv
    ```
-2. Clone the repo
+3. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Recogg/tree/master/IoT.git
+git clone https://github.com/your_username_/Recogg.git
 ```
 
 <!-- HARDWARE GUIDE -->
