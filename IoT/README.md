@@ -40,10 +40,8 @@ Recogg uses the Raspberry-Pi in conjunction with other hardware components to pe
   
 <!-- INSTALLATION -->
 ### Installation
-
 1. [Install Python](https://img.shields.io/badge/python-3.6-blue)
-2. Install Python libraries
-  Type these into linux terminal: 
+2. Install Python libraries (Use linux terminal on Raspberry-Pi) 
    * PIP installer for Python3
    ```sh
    sudo apt-get install python3-pip
