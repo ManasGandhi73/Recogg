@@ -70,6 +70,7 @@ git clone https://github.com/your_username_/Recogg.git
 * [Button](https://raspberrypihq.com/use-a-push-button-with-raspberry-pi-gpio/)
 * [Camera](https://projects.raspberrypi.org/en/projects/getting-started-with-picamera)
 * GPIO Pin Setup (Using BCM layout)
+<img src="screenshots/homepage.JPG" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
  * Keypad Pins (starting from the left)
    * Pin 1 - GPIO 5
    * Pin 2 - GPIO 6
@@ -79,6 +80,7 @@ git clone https://github.com/your_username_/Recogg.git
    * Pin 6 - GPIO 16
    * Pin 7 - GPIO 20 
    * Pin 8 - GPIO 21 
+ 
  * LCD Screen Pins
    * GND - GND
    * VCC - 5V
